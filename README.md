@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a first year it-student at LAB University of Applied Sciences.
+
 <!--
 **EerSaa222/EerSaa222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
