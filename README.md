@@ -5,6 +5,7 @@ I am a first year it-student at LAB University of Applied Sciences.
 My interests:
 
 -Digital privacy
+
 -Self-hosting
 
 <!--
